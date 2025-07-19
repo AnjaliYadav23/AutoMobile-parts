@@ -15,6 +15,7 @@ Watch our guided video walkthrough: **[Link to Feature Walkthrough]()**
 - Robust Sign-in/soign-out
 - View and manage all products
 - purchase the desired product
+
 ## **Design Approach and Assumptions**
 
 - Designed for simplicity and intuitive user experience for demonstration purposes.
@@ -24,4 +25,6 @@ Watch our guided video walkthrough: **[Link to Feature Walkthrough]()**
 ## **Technology Stack**
 
 - Front-end:HTML, css, Javascript
+
+
 
